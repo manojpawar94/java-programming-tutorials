@@ -1,4 +1,4 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.datetimeapi;
 
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;

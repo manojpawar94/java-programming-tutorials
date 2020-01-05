@@ -1,4 +1,4 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.optionalclass;
 
 import java.util.Optional;
 

@@ -1,9 +1,10 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.functionalinteface;
 
 /**
  * User define functional interface
  */
 public class FunctionalInterfaceExample3 {
+    
     public static void main(String[] args) {
         MyFunctionalInterface myFunctionalInterface = () -> System.out.println("Hello My Funcational Interface!");
         myFunctionalInterface.doWork();

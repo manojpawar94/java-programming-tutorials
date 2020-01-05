@@ -1,9 +1,10 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.functionalinteface;
 
 import java.util.function.Function;
 import java.util.function.Predicate;
 
 public class FunctionalCompositionExample {
+    
     public static void main(String[] args) {
         Predicate<String> startWithA = text -> text.startsWith("A");
         Predicate<String> endWithX = text -> text.toUpperCase().endsWith("X");

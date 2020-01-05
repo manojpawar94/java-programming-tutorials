@@ -1,10 +1,11 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.methodref;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 public class MethodReferenceExample {
+    
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
         for (int index = 0; index < 10; index++) {

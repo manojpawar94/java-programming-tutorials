@@ -1,6 +1,7 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.lambdaexpression;
 
 public class LambdaExpressionExample2 {
+    
     public static void main(String[] args) {
         LambdaExpressionExample2 object = new LambdaExpressionExample2();
 

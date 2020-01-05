@@ -1,4 +1,4 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.base64;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;

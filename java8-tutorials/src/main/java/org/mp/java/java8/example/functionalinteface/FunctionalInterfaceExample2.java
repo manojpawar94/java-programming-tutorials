@@ -1,4 +1,4 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.functionalinteface;
 
 import java.util.Random;
 import java.util.function.BinaryOperator;
@@ -7,6 +7,7 @@ import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
 
 public class FunctionalInterfaceExample2 {
+    
     public static void main(String[] args) {
         /**
          * The Java Consumer interface is a functional interface that represents an

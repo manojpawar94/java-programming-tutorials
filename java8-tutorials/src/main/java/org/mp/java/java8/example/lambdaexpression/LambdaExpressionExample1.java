@@ -1,6 +1,7 @@
-package org.mp.java.java8;
+package org.mp.java.java8.example.lambdaexpression;
 
 public class LambdaExpressionExample1 {
+
     public static void main(String[] args) {
 
         // With paranthesis, type declarion and curly braces
